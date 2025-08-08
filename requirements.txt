@@ -2,4 +2,6 @@ streamlit
 pandas
 vaderSentiment
 scikit-learn
-
+plotly
+numpy
+matplotlib
